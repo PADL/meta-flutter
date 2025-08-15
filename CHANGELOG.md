@@ -1,5 +1,8 @@
 # Changelog
 
+Aug 15, 2025
+1. Flutter SDK 3.32.8
+
 Jul 9, 2025
 1. ivi-homescreen/flutter-auto - enable flatpak plugin if `flatpak` is present in IMAGE_INSTALL
 
